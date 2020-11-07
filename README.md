@@ -6,7 +6,9 @@
 </head>
 <body>
 
-<h1>My Website</h1>
+<h1>kotujoki developer</h1>
+<h2>contact us</h2>
+
 <p>A website created by Kotujoki.</p>
 
 </body>
